@@ -276,5 +276,51 @@
     },
     "availableSeats": ["36", "37", "38", "39", "40", "41", "42"]
   }
-  ]
+  ],
+  "Cities":[
+    {
+       "id": 1,
+      "name":"Madurai"
+    },
+    {
+       "id": 2,
+      "name": "Chennai"
+    },
+     {
+       "id": 3,
+      "name": "Trichy"
+    },
+     {
+       "id": 4,
+      "name": "Coimbatore"
+    },
+    {
+       "id": 5,
+      "name":"Vellore"
+    },
+    {
+       "id": 6,
+      "name":"Erode"
+    },
+    {
+       "id": 7,
+      "name": "Salem"
+    },
+    {
+       "id": 8,
+      "name": "Bangalore"
+    },
+    {
+       "id": 9,
+      "name": "Trivandrum"
+    },
+    {
+       "id": 10,
+      "name": "Madurai"
+    },
+    {
+       "id": 11,
+      "name": "Pondicherry"
+    }
+]
 }
