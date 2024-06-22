@@ -292,7 +292,7 @@
     },
      {
        "id": 4,
-      "name":"Coimbatore"
+      "name": "Coimbatore"
     },
     {
        "id": 5,
@@ -304,11 +304,11 @@
     },
     {
        "id": 7,
-      "name":"Salem"
+      "name": "Salem"
     },
     {
        "id": 8,
-      "name":"Bangalore"
+      "name": "Bangalore"
     },
     {
        "id": 9,
@@ -321,6 +321,6 @@
     {
        "id": 11,
       "name":"Pondicherry"
-    },
+    }
   ]
 }
